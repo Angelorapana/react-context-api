@@ -3,7 +3,7 @@
 function App() {
 
   return (
-    <h1>rEACT</h1>
+    <h1>REACT</h1>
   )
 }
 
